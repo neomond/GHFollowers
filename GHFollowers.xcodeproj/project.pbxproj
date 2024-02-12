@@ -13,6 +13,7 @@
 		7A619DAA2B7944A700EC166F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A619DA82B7944A700EC166F /* LaunchScreen.storyboard */; };
 		7A6C3D552B796B980016F1C4 /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6C3D542B796B980016F1C4 /* SearchVC.swift */; };
 		7A6C3D572B796BF10016F1C4 /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6C3D562B796BF10016F1C4 /* FavoritesListVC.swift */; };
+		7A7D2E4D2B7AAAD9001C2A58 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7D2E4C2B7AAAD9001C2A58 /* GFButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7A619DAB2B7944A700EC166F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A6C3D542B796B980016F1C4 /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
 		7A6C3D562B796BF10016F1C4 /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
+		7A7D2E4C2B7AAAD9001C2A58 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				7A619D9D2B7944A500EC166F /* AppDelegate.swift */,
 				7A619D9F2B7944A500EC166F /* SceneDelegate.swift */,
+				7A7D2E4C2B7AAAD9001C2A58 /* GFButton.swift */,
 				7A6C3D542B796B980016F1C4 /* SearchVC.swift */,
 				7A6C3D562B796BF10016F1C4 /* FavoritesListVC.swift */,
 				7A619DA62B7944A700EC166F /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A6C3D572B796BF10016F1C4 /* FavoritesListVC.swift in Sources */,
+				7A7D2E4D2B7AAAD9001C2A58 /* GFButton.swift in Sources */,
 				7A6C3D552B796B980016F1C4 /* SearchVC.swift in Sources */,
 				7A619D9E2B7944A500EC166F /* AppDelegate.swift in Sources */,
 				7A619DA02B7944A500EC166F /* SceneDelegate.swift in Sources */,
