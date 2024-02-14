@@ -70,22 +70,54 @@
 		7A619D9C2B7944A500EC166F /* GHFollowers */ = {
 			isa = PBXGroup;
 			children = (
-				7A619D9D2B7944A500EC166F /* AppDelegate.swift */,
-				7A619D9F2B7944A500EC166F /* SceneDelegate.swift */,
-				7A7D2E4C2B7AAAD9001C2A58 /* GFButton.swift */,
-				7A7D2E4E2B7BE399001C2A58 /* GFTextField.swift */,
-				7A6C3D542B796B980016F1C4 /* SearchVC.swift */,
-				7AF915042B7C8AC400C8E149 /* GFTitleLabel.swift */,
-				7AF915062B7C8E2B00C8E149 /* GFBodyLabel.swift */,
-				7A6C3D562B796BF10016F1C4 /* FavoritesListVC.swift */,
-				7A7D2E502B7BFC17001C2A58 /* FollowerListVC.swift */,
-				7AF915082B7C8F7300C8E149 /* GFAlertVC.swift */,
-				7AF9150A2B7CA8F800C8E149 /* UIViewController+Ext.swift */,
-				7A619DA62B7944A700EC166F /* Assets.xcassets */,
-				7A619DA82B7944A700EC166F /* LaunchScreen.storyboard */,
-				7A619DAB2B7944A700EC166F /* Info.plist */,
+				7A7D2E552B7D4A92001C2A58 /* Support */,
+				7A7D2E542B7D4A0F001C2A58 /* Extensions */,
+				7A7D2E532B7D49B3001C2A58 /* Custom Views */,
+				7A7D2E522B7D497E001C2A58 /* Screens */,
 			);
 			path = GHFollowers;
+			sourceTree = "<group>";
+		};
+		7A7D2E522B7D497E001C2A58 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				7A6C3D542B796B980016F1C4 /* SearchVC.swift */,
+				7A6C3D562B796BF10016F1C4 /* FavoritesListVC.swift */,
+				7A7D2E502B7BFC17001C2A58 /* FollowerListVC.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		7A7D2E532B7D49B3001C2A58 /* Custom Views */ = {
+			isa = PBXGroup;
+			children = (
+				7AF915082B7C8F7300C8E149 /* GFAlertVC.swift */,
+				7A7D2E4C2B7AAAD9001C2A58 /* GFButton.swift */,
+				7A7D2E4E2B7BE399001C2A58 /* GFTextField.swift */,
+				7AF915042B7C8AC400C8E149 /* GFTitleLabel.swift */,
+				7AF915062B7C8E2B00C8E149 /* GFBodyLabel.swift */,
+			);
+			path = "Custom Views";
+			sourceTree = "<group>";
+		};
+		7A7D2E542B7D4A0F001C2A58 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				7AF9150A2B7CA8F800C8E149 /* UIViewController+Ext.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		7A7D2E552B7D4A92001C2A58 /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				7A619DAB2B7944A700EC166F /* Info.plist */,
+				7A619D9D2B7944A500EC166F /* AppDelegate.swift */,
+				7A619D9F2B7944A500EC166F /* SceneDelegate.swift */,
+				7A619DA62B7944A700EC166F /* Assets.xcassets */,
+				7A619DA82B7944A700EC166F /* LaunchScreen.storyboard */,
+			);
+			path = Support;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,7 +270,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -295,7 +327,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -315,7 +347,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 963Q5MY7HY;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = GHFollowers/Info.plist;
+				INFOPLIST_FILE = GHFollowers/Support/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -347,7 +379,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 963Q5MY7HY;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = GHFollowers/Info.plist;
+				INFOPLIST_FILE = GHFollowers/Support/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;

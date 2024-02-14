@@ -17,5 +17,4 @@ extension UIViewController {
             self.present(alertVC, animated: true)
         }
     }
-    
 }
