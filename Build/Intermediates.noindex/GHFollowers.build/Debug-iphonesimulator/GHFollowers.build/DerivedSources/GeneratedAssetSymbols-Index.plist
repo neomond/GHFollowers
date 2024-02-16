@@ -8,7 +8,7 @@
 	<array>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/nazrinatayeva/Desktop/GHFollowers/GHFollowers/Support/Assets.xcassets</string>
+			<string>/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Support/Assets.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameAvatarPlaceholder</string>
 			<key>relativePath</key>
@@ -18,7 +18,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/nazrinatayeva/Desktop/GHFollowers/GHFollowers/Support/Assets.xcassets</string>
+			<string>/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Support/Assets.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameEmptyStateLogo</string>
 			<key>relativePath</key>
@@ -28,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/nazrinatayeva/Desktop/GHFollowers/GHFollowers/Support/Assets.xcassets</string>
+			<string>/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Support/Assets.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameGhLogo</string>
 			<key>relativePath</key>

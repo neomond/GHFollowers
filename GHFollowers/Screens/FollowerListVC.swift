@@ -8,7 +8,7 @@
 import UIKit
 
 class FollowerListVC: UIViewController {
-
+    
     var username: String!
     
     override func viewDidLoad() {
@@ -16,13 +16,16 @@ class FollowerListVC: UIViewController {
         self.view.backgroundColor = .systemBackground
         navigationController?.navigationBar.prefersLargeTitles = true
         
-        NetworkManager.shared.getFollowers(for: username, page: 1) { ( followers, errorMessage)  in
-            guard let followers = followers else {
-                self.presentGFAlertOnMainThread(title: "Bad Stuff Happened", message: errorMessage!.rawValue , buttonTitle: "Ok")
-                return
+        NetworkManager.shared.getFollowers(for: username, page: 1) { result  in
+            
+            switch result {
+            case .success(let followers):
+                print(followers)
+                
+            case .failure(let error):
+                self.presentGFAlertOnMainThread(title: "Bad Stuff Happened", message: error.rawValue , buttonTitle: "Ok")
+                
             }
-            print("Followers.count = \(followers.count)")
-            print(followers)
         }
     }
     
@@ -30,6 +33,6 @@ class FollowerListVC: UIViewController {
         super.viewWillAppear(animated)
         navigationController?.setNavigationBarHidden(false, animated: true)
     }
-  
-
+    
+    
 }
