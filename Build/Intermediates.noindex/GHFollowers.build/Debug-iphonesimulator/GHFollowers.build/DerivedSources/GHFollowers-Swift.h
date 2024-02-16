@@ -325,6 +325,13 @@ SWIFT_CLASS("_TtC11GHFollowers15FavoritesListVC")
 @end
 
 
+SWIFT_CLASS("_TtC11GHFollowers12FollowerCell")
+@interface FollowerCell : UICollectionViewCell
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
 @interface FollowerListVC : UIViewController
 - (void)viewDidLoad;
@@ -340,6 +347,16 @@ SWIFT_CLASS("_TtC11GHFollowers9GFAlertVC")
 - (void)viewDidLoad;
 - (void)dismissVC;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
+@end
+
+@class UIImage;
+
+SWIFT_CLASS("_TtC11GHFollowers17GFAvatarImageView")
+@interface GFAvatarImageView : UIImageView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithImage:(UIImage * _Nullable)image SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithImage:(UIImage * _Nullable)image highlightedImage:(UIImage * _Nullable)highlightedImage SWIFT_UNAVAILABLE;
 @end
 
 
