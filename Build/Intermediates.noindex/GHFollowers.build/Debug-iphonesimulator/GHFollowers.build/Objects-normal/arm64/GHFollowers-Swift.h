@@ -338,6 +338,12 @@ SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIScrollView;
+
+@interface FollowerListVC (SWIFT_EXTENSION(GHFollowers)) <UICollectionViewDelegate>
+- (void)scrollViewDidEndDragging:(UIScrollView * _Nonnull)scrollView willDecelerate:(BOOL)decelerate;
+@end
+
 
 SWIFT_CLASS("_TtC11GHFollowers9GFAlertVC")
 @interface GFAlertVC : UIViewController
