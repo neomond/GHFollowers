@@ -344,6 +344,14 @@ SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
 - (void)scrollViewDidEndDragging:(UIScrollView * _Nonnull)scrollView willDecelerate:(BOOL)decelerate;
 @end
 
+@class UISearchController;
+@class UISearchBar;
+
+@interface FollowerListVC (SWIFT_EXTENSION(GHFollowers)) <UISearchBarDelegate, UISearchResultsUpdating>
+- (void)updateSearchResultsForSearchController:(UISearchController * _Nonnull)searchController;
+- (void)searchBarCancelButtonClicked:(UISearchBar * _Nonnull)searchBar;
+@end
+
 
 SWIFT_CLASS("_TtC11GHFollowers9GFAlertVC")
 @interface GFAlertVC : UIViewController
