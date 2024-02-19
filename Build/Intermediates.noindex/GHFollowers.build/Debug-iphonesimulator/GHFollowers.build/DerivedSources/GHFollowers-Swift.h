@@ -341,9 +341,12 @@ SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
 @end
 
 @class UIScrollView;
+@class UICollectionView;
+@class NSIndexPath;
 
 @interface FollowerListVC (SWIFT_EXTENSION(GHFollowers)) <UICollectionViewDelegate>
 - (void)scrollViewDidEndDragging:(UIScrollView * _Nonnull)scrollView willDecelerate:(BOOL)decelerate;
+- (void)collectionView:(UICollectionView * _Nonnull)collectionView didSelectItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 @end
 
 @class UISearchController;
@@ -444,6 +447,15 @@ SWIFT_CLASS("_TtC11GHFollowers8SearchVC")
 
 
 
+
+
+SWIFT_CLASS("_TtC11GHFollowers10UserInfoVC")
+@interface UserInfoVC : UIViewController
+- (void)viewDidLoad;
+- (void)dismissVC;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
 
 #endif
 #if __has_attribute(external_source_symbol)
