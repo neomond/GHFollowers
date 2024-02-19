@@ -378,6 +378,13 @@ SWIFT_CLASS("_TtC11GHFollowers8GFButton")
 @end
 
 
+SWIFT_CLASS("_TtC11GHFollowers16GFEmptyStateView")
+@interface GFEmptyStateView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC11GHFollowers11GFTextField")
 @interface GFTextField : UITextField
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
