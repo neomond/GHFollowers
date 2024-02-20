@@ -1,8 +1,8 @@
 //
-//  ErrorMessage.swift
+//  GFError.swift
 //  GHFollowers
 //
-//  Created by Nazrin Atayeva on 15.02.24.
+//  Created by Nazrin Atayeva on 20.02.24.
 //
 
 import Foundation
