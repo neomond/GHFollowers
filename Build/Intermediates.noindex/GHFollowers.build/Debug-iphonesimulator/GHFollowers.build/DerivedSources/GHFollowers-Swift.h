@@ -398,6 +398,13 @@ SWIFT_CLASS("_TtC11GHFollowers16GFEmptyStateView")
 @end
 
 
+SWIFT_CLASS("_TtC11GHFollowers21GFSecondaryTitleLabel")
+@interface GFSecondaryTitleLabel : UILabel
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC11GHFollowers11GFTextField")
 @interface GFTextField : UITextField
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
@@ -409,6 +416,14 @@ SWIFT_CLASS("_TtC11GHFollowers12GFTitleLabel")
 @interface GFTitleLabel : UILabel
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC11GHFollowers18GFUserInfoHeaderVC")
+@interface GFUserInfoHeaderVC : UIViewController
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (void)viewDidLoad;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
 @end
 
 @class UIWindow;
