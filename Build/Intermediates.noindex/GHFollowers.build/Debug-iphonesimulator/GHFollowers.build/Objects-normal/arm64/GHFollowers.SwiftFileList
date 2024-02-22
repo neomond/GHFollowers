@@ -1,6 +1,7 @@
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Model/User.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom\ Views/TextFields/GFTextField.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Screens/FavoritesListVC.swift
+/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Extensions/String+Ext.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom\ Views/Buttons/GFButton.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Extensions/UIViewController+Ext.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Utilities/UIHelper.swift
@@ -17,6 +18,7 @@
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom\ Views/Labels/GFBodyLabel.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Screens/UserInfoVC.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Model/Follower.swift
+/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Extensions/Date+Ext.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom\ Views/Labels/GFSecondaryTitleLabel.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom\ Views/Labels/GFTitleLabel.swift
 /Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom\ Views/Views/GFEmptyStateView.swift
