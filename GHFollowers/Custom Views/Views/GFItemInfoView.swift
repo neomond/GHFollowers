@@ -7,20 +7,20 @@
 
 import UIKit
 
-class GFItemInfoView: UIView {
-    
-    enum ItemInfoType{
-        case repos, gists, followers, following
-    }
-    
-    
-    let symbolImageView     = UIImageView()
-    let titleLabel          = GFTitleLabel(textAlignment: .left, fontSize: 14)
-    let countlabel          = GFTitleLabel(textAlignment: .center, fontSize: 14)
+enum ItemInfoType {
+    case repos, gists, followers, following
+}
 
+
+class GFItemInfoView: UIView {
+
+    let symbolImageView = UIImageView()
+    let titleLabel      = GFTitleLabel(textAlignment: .left, fontSize: 14)
+    let countLabel      = GFTitleLabel(textAlignment: .center, fontSize: 14)
     
-    override init(frame: CGRect){
-        super .init(frame: frame)
+    
+    override init(frame: CGRect) {
+        super.init(frame: frame)
         configure()
     }
     
@@ -30,51 +30,50 @@ class GFItemInfoView: UIView {
     }
     
     
-    private func configure(){
+    private func configure() {
         addSubview(symbolImageView)
         addSubview(titleLabel)
-        addSubview(countlabel)
+        addSubview(countLabel)
         
         symbolImageView.translatesAutoresizingMaskIntoConstraints = false
         symbolImageView.contentMode = .scaleAspectFill
-        symbolImageView.tintColor = .label
-        
+        symbolImageView.tintColor   = .label
         
         NSLayoutConstraint.activate([
             symbolImageView.topAnchor.constraint(equalTo: self.topAnchor),
             symbolImageView.leadingAnchor.constraint(equalTo: self.leadingAnchor),
-            symbolImageView.heightAnchor.constraint(equalToConstant: 20),
             symbolImageView.widthAnchor.constraint(equalToConstant: 20),
+            symbolImageView.heightAnchor.constraint(equalToConstant: 20),
             
             titleLabel.centerYAnchor.constraint(equalTo: symbolImageView.centerYAnchor),
             titleLabel.leadingAnchor.constraint(equalTo: symbolImageView.trailingAnchor, constant: 12),
             titleLabel.trailingAnchor.constraint(equalTo: self.trailingAnchor),
             titleLabel.heightAnchor.constraint(equalToConstant: 18),
             
-            countlabel.topAnchor.constraint(equalTo: symbolImageView.bottomAnchor, constant: 4),
-            countlabel.leadingAnchor.constraint(equalTo: self.leadingAnchor),
-            countlabel.trailingAnchor.constraint(equalTo: self.trailingAnchor),
-            countlabel.heightAnchor.constraint(equalToConstant: 18 )
+            countLabel.topAnchor.constraint(equalTo: symbolImageView.bottomAnchor, constant: 4),
+            countLabel.leadingAnchor.constraint(equalTo: self.leadingAnchor),
+            countLabel.trailingAnchor.constraint(equalTo: self.trailingAnchor),
+            countLabel.heightAnchor.constraint(equalToConstant: 18)
         ])
     }
     
     
-    func set(itemInfoType: ItemInfoType, withCount count: Int){
+    func set(itemInfoType: ItemInfoType, withCount count: Int) {
         switch itemInfoType {
         case .repos:
-            symbolImageView.image = UIImage(systemName: SFSymbols.repos)
-            titleLabel.text       = "Public Repos"
+            symbolImageView.image   = UIImage(systemName: SFSymbols.repos)
+            titleLabel.text         = "Public Repos"
         case .gists:
-            symbolImageView.image = UIImage(systemName: SFSymbols.gists)
-            titleLabel.text       = "Public Gists"
+            symbolImageView.image   = UIImage(systemName: SFSymbols.gists)
+            titleLabel.text         = "Public Gists"
         case .followers:
-            symbolImageView.image = UIImage(systemName: SFSymbols.followers)
-            titleLabel.text       = "Followers"
+            symbolImageView.image   = UIImage(systemName: SFSymbols.followers)
+            titleLabel.text         = "Followers"
         case .following:
-            symbolImageView.image = UIImage(systemName: SFSymbols.following)
-            titleLabel.text       = "Following"
+            symbolImageView.image   = UIImage(systemName: SFSymbols.following)
+            titleLabel.text         = "Following"
         }
-        countlabel.text           = String(count)
+        
+        countLabel.text             = String(count)
     }
-    
 }

@@ -15,6 +15,16 @@
     "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
     "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
   },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Buttons/GFButton.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton~partial.swiftmodule"
+  },
   "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Cells/FollowerCell.swift" : {
     "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FollowerCell.swiftconstvalues",
     "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FollowerCell.d",
@@ -25,17 +35,7 @@
     "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FollowerCell.swiftdeps",
     "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FollowerCell~partial.swiftmodule"
   },
-  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/GFAlertVC.swift" : {
-    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.swiftconstvalues",
-    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.d",
-    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.dia",
-    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.o",
-    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.bc",
-    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.o",
-    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.swiftdeps",
-    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC~partial.swiftmodule"
-  },
-  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/GFAvatarImageView.swift" : {
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ImageViews/GFAvatarImageView.swift" : {
     "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.swiftconstvalues",
     "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.d",
     "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.dia",
@@ -45,7 +45,7 @@
     "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.swiftdeps",
     "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView~partial.swiftmodule"
   },
-  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/GFBodyLabel.swift" : {
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Labels/GFBodyLabel.swift" : {
     "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFBodyLabel.swiftconstvalues",
     "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFBodyLabel.d",
     "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFBodyLabel.dia",
@@ -55,17 +55,27 @@
     "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFBodyLabel.swiftdeps",
     "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFBodyLabel~partial.swiftmodule"
   },
-  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/GFButton.swift" : {
-    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.swiftconstvalues",
-    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.d",
-    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.dia",
-    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.o",
-    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.bc",
-    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.o",
-    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton.swiftdeps",
-    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFButton~partial.swiftmodule"
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Labels/GFSecondaryTitleLabel.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel~partial.swiftmodule"
   },
-  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/GFTextField.swift" : {
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Labels/GFTitleLabel.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel~partial.swiftmodule"
+  },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/TextFields/GFTextField.swift" : {
     "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTextField.swiftconstvalues",
     "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTextField.d",
     "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTextField.dia",
@@ -75,15 +85,75 @@
     "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTextField.swiftdeps",
     "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTextField~partial.swiftmodule"
   },
-  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/GFTitleLabel.swift" : {
-    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.swiftconstvalues",
-    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.d",
-    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.dia",
-    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.o",
-    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.bc",
-    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.o",
-    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.swiftdeps",
-    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel~partial.swiftmodule"
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ViewControllers/GFAlertVC.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC~partial.swiftmodule"
+  },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ViewControllers/GFUserInfoHeaderVC.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFUserInfoHeaderVC.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFUserInfoHeaderVC.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFUserInfoHeaderVC.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFUserInfoHeaderVC.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFUserInfoHeaderVC.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFUserInfoHeaderVC.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFUserInfoHeaderVC.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFUserInfoHeaderVC~partial.swiftmodule"
+  },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ViewControllers/ItemInfoVCs/GFFollowerItemVC.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC~partial.swiftmodule"
+  },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ViewControllers/ItemInfoVCs/GFItemInfoVC.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoVC.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoVC.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoVC.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoVC.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoVC.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoVC.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoVC.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoVC~partial.swiftmodule"
+  },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ViewControllers/ItemInfoVCs/GFRepoItemVC.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC~partial.swiftmodule"
+  },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Views/GFEmptyStateView.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFEmptyStateView.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFEmptyStateView.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFEmptyStateView.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFEmptyStateView.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFEmptyStateView.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFEmptyStateView.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFEmptyStateView.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFEmptyStateView~partial.swiftmodule"
+  },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Views/GFItemInfoView.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView~partial.swiftmodule"
   },
   "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Extensions/UIViewController+Ext.swift" : {
     "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIViewController+Ext.swiftconstvalues",
@@ -155,6 +225,16 @@
     "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SearchVC.swiftdeps",
     "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SearchVC~partial.swiftmodule"
   },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Screens/UserInfoVC.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UserInfoVC.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UserInfoVC.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UserInfoVC.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UserInfoVC.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UserInfoVC.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UserInfoVC.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UserInfoVC.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UserInfoVC~partial.swiftmodule"
+  },
   "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Support/AppDelegate.swift" : {
     "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
     "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/AppDelegate.d",
@@ -175,15 +255,25 @@
     "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
     "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
   },
-  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Utilities/ErrorMessage.swift" : {
-    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/ErrorMessage.swiftconstvalues",
-    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/ErrorMessage.d",
-    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/ErrorMessage.dia",
-    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/ErrorMessage.o",
-    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/ErrorMessage.bc",
-    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/ErrorMessage.o",
-    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/ErrorMessage.swiftdeps",
-    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/ErrorMessage~partial.swiftmodule"
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Utilities/Constants.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants~partial.swiftmodule"
+  },
+  "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Utilities/GFError.swift" : {
+    "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.swiftconstvalues",
+    "dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.d",
+    "diagnostics" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.dia",
+    "index-unit-output-path" : "/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.o",
+    "llvm-bc" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.bc",
+    "object" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.o",
+    "swift-dependencies" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.swiftdeps",
+    "swiftmodule" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError~partial.swiftmodule"
   },
   "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Utilities/UIHelper.swift" : {
     "const-values" : "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIHelper.swiftconstvalues",

@@ -2,7 +2,8 @@
 //  User.swift
 //  GHFollowers
 //
-//  Created by Nazrin Atayeva on 15.02.24.
+//  Created by Sean Allen on 1/1/20.
+//  Copyright © 2020 Sean Allen. All rights reserved.
 //
 
 import Foundation
@@ -15,8 +16,8 @@ struct User: Codable {
     var bio: String?
     let publicRepos: Int
     let publicGists: Int
-    let followers: Int
+    let htmlUrl: String
     let following: Int
-    let createdAt: String 
+    let followers: Int
+    let createdAt: String
 }
-

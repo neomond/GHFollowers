@@ -396,6 +396,36 @@ SWIFT_CLASS("_TtC11GHFollowers16GFEmptyStateView")
 @end
 
 
+SWIFT_CLASS("_TtC11GHFollowers12GFItemInfoVC")
+@interface GFItemInfoVC : UIViewController
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (void)viewDidLoad;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
+@end
+
+
+SWIFT_CLASS("_TtC11GHFollowers16GFFollowerItemVC")
+@interface GFFollowerItemVC : GFItemInfoVC
+- (void)viewDidLoad;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+SWIFT_CLASS("_TtC11GHFollowers14GFItemInfoView")
+@interface GFItemInfoView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC11GHFollowers12GFRepoItemVC")
+@interface GFRepoItemVC : GFItemInfoVC
+- (void)viewDidLoad;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC11GHFollowers21GFSecondaryTitleLabel")
 @interface GFSecondaryTitleLabel : UILabel
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
@@ -465,7 +495,7 @@ SWIFT_CLASS("_TtC11GHFollowers8SearchVC")
 SWIFT_CLASS("_TtC11GHFollowers10UserInfoVC")
 @interface UserInfoVC : UIViewController
 - (void)viewDidLoad;
-- (void)dismissVC;
+- (void)dismssVC;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
