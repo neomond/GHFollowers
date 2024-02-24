@@ -334,9 +334,11 @@ SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
 @interface FollowerListVC : UIViewController
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
+- (void)addButtonTapped;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 @class UIScrollView;
 @class UICollectionView;
@@ -400,6 +402,7 @@ SWIFT_CLASS("_TtC11GHFollowers12GFItemInfoVC")
 @interface GFItemInfoVC : UIViewController
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 - (void)viewDidLoad;
+- (void)actionButtonTapped;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
 @end
 
@@ -407,6 +410,7 @@ SWIFT_CLASS("_TtC11GHFollowers12GFItemInfoVC")
 SWIFT_CLASS("_TtC11GHFollowers16GFFollowerItemVC")
 @interface GFFollowerItemVC : GFItemInfoVC
 - (void)viewDidLoad;
+- (void)actionButtonTapped;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -422,6 +426,7 @@ SWIFT_CLASS("_TtC11GHFollowers14GFItemInfoView")
 SWIFT_CLASS("_TtC11GHFollowers12GFRepoItemVC")
 @interface GFRepoItemVC : GFItemInfoVC
 - (void)viewDidLoad;
+- (void)actionButtonTapped;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -499,6 +504,7 @@ SWIFT_CLASS("_TtC11GHFollowers10UserInfoVC")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 #endif
 #if __has_attribute(external_source_symbol)
