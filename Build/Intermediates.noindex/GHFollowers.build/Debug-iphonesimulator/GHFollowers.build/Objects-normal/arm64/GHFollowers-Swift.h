@@ -322,8 +322,15 @@ SWIFT_CLASS("_TtC11GHFollowers12FavoriteCell")
 
 @class NSBundle;
 
+SWIFT_CLASS("_TtC11GHFollowers15GFDataLoadingVC")
+@interface GFDataLoadingVC : UIViewController
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC11GHFollowers15FavoritesListVC")
-@interface FavoritesListVC : UIViewController
+@interface FavoritesListVC : GFDataLoadingVC
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
@@ -349,7 +356,7 @@ SWIFT_CLASS("_TtC11GHFollowers12FollowerCell")
 
 
 SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
-@interface FollowerListVC : UIViewController
+@interface FollowerListVC : GFDataLoadingVC
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
@@ -372,6 +379,13 @@ SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
 @interface FollowerListVC (SWIFT_EXTENSION(GHFollowers)) <UISearchBarDelegate, UISearchResultsUpdating>
 - (void)updateSearchResultsForSearchController:(UISearchController * _Nonnull)searchController;
 - (void)searchBarCancelButtonClicked:(UISearchBar * _Nonnull)searchBar;
+@end
+
+
+SWIFT_CLASS("_TtC11GHFollowers20GFAlertContainerView")
+@interface GFAlertContainerView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
@@ -406,6 +420,7 @@ SWIFT_CLASS("_TtC11GHFollowers8GFButton")
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 SWIFT_CLASS("_TtC11GHFollowers16GFEmptyStateView")
@@ -523,7 +538,7 @@ SWIFT_CLASS("_TtC11GHFollowers8SearchVC")
 
 
 SWIFT_CLASS("_TtC11GHFollowers10UserInfoVC")
-@interface UserInfoVC : UIViewController
+@interface UserInfoVC : GFDataLoadingVC
 - (void)viewDidLoad;
 - (void)dismssVC;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
