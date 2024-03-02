@@ -367,20 +367,18 @@ SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
 @end
 
 
+@class UISearchController;
+
+@interface FollowerListVC (SWIFT_EXTENSION(GHFollowers)) <UISearchResultsUpdating>
+- (void)updateSearchResultsForSearchController:(UISearchController * _Nonnull)searchController;
+@end
+
 @class UIScrollView;
 @class UICollectionView;
 
 @interface FollowerListVC (SWIFT_EXTENSION(GHFollowers)) <UICollectionViewDelegate>
 - (void)scrollViewDidEndDragging:(UIScrollView * _Nonnull)scrollView willDecelerate:(BOOL)decelerate;
 - (void)collectionView:(UICollectionView * _Nonnull)collectionView didSelectItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
-@end
-
-@class UISearchController;
-@class UISearchBar;
-
-@interface FollowerListVC (SWIFT_EXTENSION(GHFollowers)) <UISearchBarDelegate, UISearchResultsUpdating>
-- (void)updateSearchResultsForSearchController:(UISearchController * _Nonnull)searchController;
-- (void)searchBarCancelButtonClicked:(UISearchBar * _Nonnull)searchBar;
 @end
 
 
