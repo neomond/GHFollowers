@@ -1,0 +1,24 @@
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Cells/FavoriteCell.swift":
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FavoriteCell.o"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FavoriteCell.swiftconstvalues"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FavoriteCell.d"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FavoriteCell.dia"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/FavoriteCell.swiftdeps"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Managers/PersistenceManager.swift":
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/PersistenceManager.swiftdeps"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/PersistenceManager.dia"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/PersistenceManager.swiftconstvalues"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/PersistenceManager.o"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/PersistenceManager.d"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Labels/GFSecondaryTitleLabel.swift":
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.swiftdeps"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.dia"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.d"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.swiftconstvalues"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFSecondaryTitleLabel.o"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Labels/GFTitleLabel.swift":
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.swiftconstvalues"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.dia"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.d"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.o"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFTitleLabel.swiftdeps"

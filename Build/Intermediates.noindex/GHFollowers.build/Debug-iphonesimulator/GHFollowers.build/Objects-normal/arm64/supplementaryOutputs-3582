@@ -1,0 +1,30 @@
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Utilities/Constants.swift":
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.o"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.d"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.dia"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.swiftdeps"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/Constants.swiftconstvalues"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ImageViews/GFAvatarImageView.swift":
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.d"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.swiftdeps"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.swiftconstvalues"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.dia"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAvatarImageView.o"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Utilities/UIHelper.swift":
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIHelper.swiftdeps"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIHelper.dia"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIHelper.d"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIHelper.o"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIHelper.swiftconstvalues"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Extensions/UIViewController+Ext.swift":
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIViewController+Ext.dia"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIViewController+Ext.o"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIViewController+Ext.swiftdeps"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIViewController+Ext.swiftconstvalues"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/UIViewController+Ext.d"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Screens/SearchVC.swift":
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SearchVC.swiftdeps"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SearchVC.dia"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SearchVC.d"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SearchVC.swiftconstvalues"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SearchVC.o"

@@ -1,0 +1,24 @@
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Utilities/GFError.swift":
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.dia"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.o"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.d"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.swiftconstvalues"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFError.swiftdeps"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ViewControllers/GFAlertVC.swift":
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.dia"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.swiftdeps"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.o"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.swiftconstvalues"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFAlertVC.d"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/Views/GFItemInfoView.swift":
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.d"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.swiftdeps"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.dia"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.o"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFItemInfoView.swiftconstvalues"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ViewControllers/ItemInfoVCs/GFFollowerItemVC.swift":
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.dia"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.swiftconstvalues"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.swiftdeps"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.d"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFFollowerItemVC.o"

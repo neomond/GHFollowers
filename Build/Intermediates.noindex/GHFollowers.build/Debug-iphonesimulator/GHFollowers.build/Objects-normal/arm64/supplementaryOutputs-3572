@@ -1,0 +1,24 @@
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Support/AppDelegate.swift":
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/AppDelegate.dia"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/AppDelegate.o"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/AppDelegate.d"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/AppDelegate.swiftconstvalues"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Support/SceneDelegate.swift":
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SceneDelegate.swiftdeps"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SceneDelegate.dia"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SceneDelegate.o"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/SceneDelegate.d"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/GHFollowers/Custom Views/ViewControllers/ItemInfoVCs/GFRepoItemVC.swift":
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.swiftdeps"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.d"
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.swiftconstvalues"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.o"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GFRepoItemVC.dia"
+"/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/DerivedSources/GeneratedAssetSymbols.swift":
+  const-values: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"
+  dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GeneratedAssetSymbols.d"
+  swift-dependencies: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  object: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  diagnostics: "/Users/nazrinatayeva/Desktop/IOS/GHFollowers/Build/Intermediates.noindex/GHFollowers.build/Debug-iphonesimulator/GHFollowers.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"

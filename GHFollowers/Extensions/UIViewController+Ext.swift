@@ -8,8 +8,6 @@
 import UIKit
 import SafariServices
 
-
-
 extension UIViewController {
     
     func presentGFAlertOnMainThread(title: String, message: String, buttonTitle: String) {

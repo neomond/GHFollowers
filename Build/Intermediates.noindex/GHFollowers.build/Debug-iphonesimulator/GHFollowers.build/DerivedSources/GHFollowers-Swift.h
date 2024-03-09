@@ -366,12 +366,12 @@ SWIFT_CLASS("_TtC11GHFollowers14FollowerListVC")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
 @end
 
-
 @class UISearchController;
 
 @interface FollowerListVC (SWIFT_EXTENSION(GHFollowers)) <UISearchResultsUpdating>
 - (void)updateSearchResultsForSearchController:(UISearchController * _Nonnull)searchController;
 @end
+
 
 @class UIScrollView;
 @class UICollectionView;
@@ -441,9 +441,9 @@ SWIFT_CLASS("_TtC11GHFollowers12GFItemInfoVC")
 
 SWIFT_CLASS("_TtC11GHFollowers16GFFollowerItemVC")
 @interface GFFollowerItemVC : GFItemInfoVC
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 - (void)viewDidLoad;
 - (void)actionButtonTapped;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
@@ -457,9 +457,9 @@ SWIFT_CLASS("_TtC11GHFollowers14GFItemInfoView")
 
 SWIFT_CLASS("_TtC11GHFollowers12GFRepoItemVC")
 @interface GFRepoItemVC : GFItemInfoVC
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 - (void)viewDidLoad;
 - (void)actionButtonTapped;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
@@ -537,6 +537,7 @@ SWIFT_CLASS("_TtC11GHFollowers8SearchVC")
 
 
 
+
 SWIFT_CLASS("_TtC11GHFollowers10UserInfoVC")
 @interface UserInfoVC : GFDataLoadingVC
 - (void)viewDidLoad;
@@ -544,6 +545,7 @@ SWIFT_CLASS("_TtC11GHFollowers10UserInfoVC")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 #endif
