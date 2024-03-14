@@ -72,19 +72,44 @@ class FollowerListVC: GFDataLoadingVC {
         showLoadingView()
         isLoadingMoreFollowers = true
         
-        NetworkManager.shared.getFollowers(for: username, page: page) { [weak self] result in
-            guard let self = self else { return }
-            self.dismissLoadingView()
-            
-            switch result {
-            case .success(let followers):
-                self.updateUI(with: followers)
-                
-            case .failure(let error):
-                self.presentGFAlertOnMainThread(title: "Bad Stuff Happend", message: error.rawValue, buttonTitle: "Ok")
+        Task {
+            do {
+                let followers = NetworkManager.shared.getFollowers(for: username, page: page)
+                updateUI(with: followers)
+                dismissLoadingView()
+            } catch {
+                if let gfError = error as? GFError {
+                 presentGFAlert(title: "Bad Stuff Happend", message: gfError.rawValue, buttonTitle: "Ok")
+                } else {
+                    presentDefaultError()
+                }
+                dismissLoadingView()
             }
-            self.isLoadingMoreFollowers = false
+            
+//            guard let followers = try? await NetworkManager.shared.getFollowers(for: username, page: page) {
+//                presentDefaultError()
+//                dismissLoadingView()
+//                return
+//            }
+//            updateUI(with: followers)
+//            dismissLoadingView()
         }
+       
+        
+//        NetworkManager.shared.getFollowers(for: username, page: page) { [weak self] result in
+//            guard let self = self else { return }
+//            self.dismissLoadingView()
+//            
+//            switch result {
+//            case .success(let followers):
+//                self.updateUI(with: followers)
+//                
+//            case .failure(let error):
+//                self.presentGFAlertOnMainThread(title: "Bad Stuff Happend", message: error.rawValue, buttonTitle: "Ok")
+//            }
+//            self.isLoadingMoreFollowers = false
+//        }
+        
     }
     
     
