@@ -44,3 +44,6 @@ class GFButton: UIButton {
     }
 }
 
+#Preview {
+    GFButton(color: .red, title: "Set date", systemImageName: "calendar")
+}
